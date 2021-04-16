@@ -100,7 +100,7 @@ And the following:
     "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.?\n",
 )
 
-SAITAMA_IMG = "https://t.me/luffy_support/5845"
+SAITAMA_IMG = "https://telegra.ph/file/16d8d94191e8c3056efa6.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
  You can support the project via [Paypal](ko-fi.com/sawada) or by contacting @Sawada \
