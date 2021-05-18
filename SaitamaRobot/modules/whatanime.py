@@ -144,3 +144,14 @@ async def progress_callback(current, total, reply):
             prevtext = text
             last_edit_time = time.time()
             progress_callback_data[message_identifier] = last_edit_time, prevtext, start_time
+
+__help__ = """
+Sometimes, you get your favorite GIF, which you do not know the name 
+of, this command will scan your GIF and give a similar detail to the 
+anime with that GIF.
+*Admin commands:*
+ • `/whatanime`*:* You can find it by scanning(mention searchable gif only) gif of an anime, to find out which anime it is.
+"""
+
+__mod_name__ = "WhatAnime"
+__command_list__ = ["whatanime"]
