@@ -183,7 +183,7 @@ def scam(imgspage, lim):
 __help__ = f"""
 *Commands:* 
 • /reverse: Does a reverse image search of the media which it was replied to.
-Reports bugs at {@SUPPORT_CHAT}
+Reports bugs at @Luffy_Support
 """
 
 __mod_name__ = "Image Search"
