@@ -34,3 +34,8 @@ ujson
 pretty_errors
 pyrogram
 tgCrypto>=1.2.2
+
+#ImageEditor
+glitch_this
+NumPy
+opencv-python-headless
