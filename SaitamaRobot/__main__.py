@@ -254,7 +254,7 @@ def start(update: Update, context: CallbackContext):
                         [
                             InlineKeyboardButton(
                                 text="⚙️ Help and Commands ",
-                                url="https://t.me/Kaizoku/4",
+                                url="https://t.me/pirateking_robot?start=help",
                             ),
                         ],
                     ],
