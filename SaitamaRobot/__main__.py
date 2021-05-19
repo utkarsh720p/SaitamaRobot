@@ -77,7 +77,7 @@ PM_START_TEXT = """
 Hi {}, my name is {}! 
 I am an Anime themed group management bot.
 Build by weebs for weebs, I specialize in managing anime and similar themed groups.
-You can find my list of available commands with /help.
+
 """
 
 HELP_STRINGS = """
@@ -251,6 +251,11 @@ def start(update: Update, context: CallbackContext):
                                 url="https://github.com/utkarsh720p/SaitamaRobot",
                             )
                         ],
+                        [
+                            InlineKeyboardButton(
+                                text="⚙️ Help and Commands ",
+                                url="https://t.me/pirateking_robot?start=help",
+                            ),
                     ]
                 ),
             )
