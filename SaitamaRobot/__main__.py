@@ -232,7 +232,7 @@ def start(update: Update, context: CallbackContext):
                         [
                             InlineKeyboardButton(
                                 text="🚑 Support Group",
-                                url=f"https://t.me/luffy_support",
+                                url=f"https://t.me/luffysupport",
                             ),
                             InlineKeyboardButton(
                                 text="🔔 Updates Channel",
