@@ -35,7 +35,7 @@ pretty_errors
 pyrogram
 tgCrypto>=1.2.2
 envparse
-
+telegraph
 #ImageEditor
 glitch_this
 NumPy
